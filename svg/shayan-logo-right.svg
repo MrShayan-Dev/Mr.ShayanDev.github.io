@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="97" height="8" viewBox="0 0 97 8" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="3.333702811989651" y="1.666851405994826" angle="0"/>
+    <bx:guide x="8.710642831327798" y="2.097006607541877" angle="0"/>
+    <bx:guide x="-0.9678492034808661" y="0.7527716027073406" angle="0"/>
+  </defs>
+  <path d="M 95.58 7.517 L 96.714 7.517 L 96.714 0.197 L 95.58 0.197 L 95.58 7.517 Z" fill="#C4C4C4" style="transform-box: fill-box; transform-origin: 50% 50%;"/>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 6.58341px 9.2681px;" transform="matrix(7.501966, 0, 0, 6.834424, 14.131429, -11.558223)" x="6.829" y="10.772">S</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.58935px 9.35724px;" transform="matrix(7.501966, 0, 0, 6.834424, 15.000238, -11.048397)" x="6.829" y="10.772">H</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 23.411097, -11.226786)" x="6.829" y="10.772">A</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 29.868055, -11.226785)" x="6.829" y="10.772">Y</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 36.434917, -11.280554)" x="6.829" y="10.772">A</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 44.321705, -11.173016)" x="6.829" y="10.772">N</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 56.65535, -11.301552)" x="6.829" y="10.772">J</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 63.247364, -11.39694)" x="6.829" y="10.772">A</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 5.589px 9.357px;" transform="matrix(7.501966, 0, 0, 6.834424, 71.001221, -11.301554)" x="6.829" y="10.772">N</text>
+  <text style="fill: rgb(196, 196, 196); font-family: Arial, sans-serif; font-size: 1.5px; stroke-width: 0.210813px; white-space: pre; transform-origin: 6.583px 9.268px;" transform="matrix(7.501966, 0, 0, 6.834424, -5.248969, -11.820821)" x="6.829" y="10.772">M .</text>
+</svg>
